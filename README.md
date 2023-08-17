@@ -33,6 +33,12 @@ To access this note taker application, please run the following command in your 
 
   ![Screenshot](./images/Screenshot%202023-08-17%20at%204.34.42%20PM.png)
 
+  ## Video
+
+
+https://github.com/zbichsel/ecommerce-sequelize/assets/136612956/18a4e5e1-6ba7-4fb7-8f0f-08bcfa2adf95
+
+
   ## License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
