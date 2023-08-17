@@ -21,7 +21,7 @@ Please make sure that the **mysql2**, **express**, **sequelize**, and **dotenv**
 `npm i sequelize`
 `npm i dotenv`
 
-This will install the MySQL and Inquirer packages and versions which are necessary for the application to run. Learn more about [Mysql2](https://www.npmjs.com/package/mysql2) and [Inquirer](https://www.npmjs.com/package/inquirer).
+This will install the MySQL and Inquirer packages and versions which are necessary for the application to run. Learn more about [Mysql2](https://www.npmjs.com/package/mysql2), [Sequelize](https://www.npmjs.com/package/sequelize), [Dotenv](https://www.npmjs.com/package/sequelize), and [express](https://www.npmjs.com/package/express).
 
   ## Usage
 
